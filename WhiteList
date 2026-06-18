@@ -8,5 +8,11 @@
         "Type": "Player",
         "Id": 2669484111,
         "WhiteListed": "erupptiX"
-    }
+    },
+    {
+        "Type": "Group",
+        "Id": 34249368,
+        "WhiteListed": "erupptiX"
+    },
+
 ]
