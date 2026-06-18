@@ -3,5 +3,10 @@
         "Type": "Player",
         "Id": 2653399320,
         "WhiteListed": "erupptiX"
-    }
+    },
+    {
+        "Type": "Player",
+        "Id": 2669484111,
+        "WhiteListed": "erupptiX"
+    },
 ]
