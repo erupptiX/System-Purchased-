@@ -1,4 +1,8 @@
 {
-    "users": [],
-    "groups": []
+    {
+        "Type": "Player",
+        "Id": 2653399320,
+        "WhiteListed": "erupptiX"
+
+    }
 }
